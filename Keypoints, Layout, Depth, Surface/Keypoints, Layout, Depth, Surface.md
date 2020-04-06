@@ -6,7 +6,7 @@
 
 ##### [1] PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation [PR20](https://arxiv.org/abs/1911.04231) [Torch](<https://github.com/ethnhe/PVN3D>) [Video](<https://www.bilibili.com/video/av89408773/>) 
 
-![PVN3D A](https://github.com/Pan3D/Daily-Paper-CVPR20/tree/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/PVN3D A.png)
+![PVN3D A](https://github.com/Pan3D/Daily-Paper-CVPR20/tree/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/PVN3DA.png)
 
 In this work, we present a novel data-driven method for robust 6DoF object pose estimation from a single RGBD image. Unlike previous methods that directly regressing pose parameters, we tackle this challenging task with a keypoint-based approach. Specifically, we propose a deep Hough voting network to detect 3D keypoints of objects and then estimate the 6D pose parameters within a least-squares fitting manner. Our method is a natural extension of 2D-keypoint approaches that successfully work on RGB based 6DoF estimation. It allows us to fully utilize the geometric constraint of rigid objects with the extra depth information and is easy for a network to learn and optimize. Extensive experiments were conducted to demonstrate the effectiveness of 3D-keypoint detection in the 6D pose estimation task. Experimental results also show our method outperforms the state-of-the-art methods by large margins on several benchmarks.![PVN3D fig2](https://github.com/Pan3D/Daily-Paper-CVPR20/tree/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/PVN3D fig2.png)
 
