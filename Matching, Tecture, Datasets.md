@@ -1,6 +1,6 @@
 ### Matching
 
-#### RPMNet: Robust Point Matching using Learned Features  [PR20](https://arxiv.org/pdf/2003.13479.pdf)  [Code](https://github.com/yewzijian/RPMNet)  
+#### [1] RPMNet: Robust Point Matching using Learned Features  [PR20](https://arxiv.org/pdf/2003.13479.pdf)  [Code](https://github.com/yewzijian/RPMNet)  
 
 ![RPMNetT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/RPMNetT.png)
 
@@ -10,7 +10,7 @@ Iterative Closest Point (ICP) solves the rigid point cloud registration problem 
 
 ---
 
-#### Learning Multiview 3D Point Cloud Registration [PR20](<https://arxiv.org/pdf/2001.05119.pdf>) [Code](<https://github.com/zgojcic/3D_multiview_reg>) 
+#### [2] Learning Multiview 3D Point Cloud Registration [PR20](<https://arxiv.org/pdf/2001.05119.pdf>) [Code](<https://github.com/zgojcic/3D_multiview_reg>) 
 
 ![LMVT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/LMVT.png)
 
@@ -20,7 +20,7 @@ We present a novel, end-to-end learnable, multiview 3D point cloud registration 
 
 ---
 
-#### D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features [PR20](<https://arxiv.org/pdf/2003.03164.pdf>) [TF](<https://github.com/XuyangBai/D3Feat>) 
+#### [3] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features [PR20](<https://arxiv.org/pdf/2003.03164.pdf>) [TF](<https://github.com/XuyangBai/D3Feat>) 
 
 ![D3FeatT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/D3FeatT.png)
 
@@ -32,7 +32,7 @@ A successful point cloud registration often lies on robust establishment of spar
 
 ### Texture
 
-#### Learning to Transfer Texture from Clothing Images to 3D Humans [PR20](<https://virtualhumans.mpi-inf.mpg.de/papers/mir20pix2surf/mir20pix2surf.pdf>) [Code](https://virtualhumans.mpi-inf.mpg.de/pix2surf/) 
+#### [4] Learning to Transfer Texture from Clothing Images to 3D Humans [PR20](<https://virtualhumans.mpi-inf.mpg.de/papers/mir20pix2surf/mir20pix2surf.pdf>) [Code](https://virtualhumans.mpi-inf.mpg.de/pix2surf/) 
 
 ![LTTT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/LTTT.png)
 
@@ -42,7 +42,7 @@ In this paper, we present a simple yet effective method to automatically transfe
 
 ---
 
-#### TheVirtualTailor: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style [PR20](<https://virtualhumans.mpi-inf.mpg.de/papers/patel20vtailor/vtailor.pdf>) [Code](<https://virtualhumans.mpi-inf.mpg.de/vtailor/>) 
+#### [5] TheVirtualTailor: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style [PR20](<https://virtualhumans.mpi-inf.mpg.de/papers/patel20vtailor/vtailor.pdf>) [Code](<https://virtualhumans.mpi-inf.mpg.de/vtailor/>) 
 
 ![TVTT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/TVTT.png)
 
@@ -52,7 +52,7 @@ In this paper, we present TailorNet, a neural model which predicts clothing defo
 
 ---
 
-#### Learning to Dress 3D People in Generative Clothing [PR20](<https://arxiv.org/pdf/1907.13615.pdf>) 
+#### [6] Learning to Dress 3D People in Generative Clothing [PR20](<https://arxiv.org/pdf/1907.13615.pdf>) 
 
 ![LDT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/LDT.png)
 
@@ -62,7 +62,7 @@ Three-dimensional human body models are widely used in the analysis of human pos
 
 ---
 
-#### Towards Photo-Realistic Virtual Try-On by Adaptively Generating $\leftrightarrow $ Preserving Image Content [PR20](<https://arxiv.org/pdf/2003.05863.pdf>) 
+#### [7] Towards Photo-Realistic Virtual Try-On by Adaptively Generating $\leftrightarrow $ Preserving Image Content [PR20](<https://arxiv.org/pdf/2003.05863.pdf>) 
 
 ![TPRVT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/TPRVT.png)
 
@@ -74,7 +74,7 @@ Image visual try-on aims at transferring a target clothing image onto a referenc
 
 ### Datasets
 
-#### SPARE3D: A Dataset for Spatial Reasoning on Three-View Line Drawings [PR20](https://arxiv.org/pdf/2003.14034.pdf) [Project](https://ai4ce.github.io/SPARE3D/) 
+#### [8] SPARE3D: A Dataset for Spatial Reasoning on Three-View Line Drawings [PR20](https://arxiv.org/pdf/2003.14034.pdf) [Project](https://ai4ce.github.io/SPARE3D/) 
 
 ![SPARE3DT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/SPARE3DT.png)
 
@@ -84,7 +84,7 @@ Spatial reasoning is an important component of human intelligence. We can imagin
 
 ---
 
-#### Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS [PR20](<https://arxiv.org/pdf/2003.03972.pdf>) 
+#### [9] Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS [PR20](<https://arxiv.org/pdf/2003.03972.pdf>) 
 
 ![CVTT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/CVTT.png)
 
@@ -94,7 +94,7 @@ Estimating 3D poses of multiple humans in real-time is a classic but still chall
 
 ---
 
-#### IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning [PR20](<https://arxiv.org/pdf/2003.02920.pdf>) [Data]() 
+#### [10] IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning [PR20](<https://arxiv.org/pdf/2003.02920.pdf>) [Data]() 
 
 ![IntrAT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/IntrAT.png)
 
