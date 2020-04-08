@@ -58,7 +58,7 @@ This paper presents a new method to synthesize an image from arbitrary views and
 
 ----
 
-##### [6] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [Pose Estimation](#Pose Estimation)
+##### [6] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [Pose Estimation]
 
 ![TBGA](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/TBGT.png)
 
@@ -66,9 +66,20 @@ In this work, we tackle the essential problem of scale inconsistency for self-su
 
 ------
 
+
+##### [7] Depth Sensing Beyond LiDAR Range [PR20](https://arxiv.org/pdf/2004.03048.pdf) 
+
+![DSBLRT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/DSBLRT.png)
+
+Depth sensing is a critical component of autonomous driving technologies, but today's LiDAR- or stereo camera-based solutions have limited range. We seek to increase the maximum range of self-driving vehicles' depth perception modules for the sake of better safety. To that end, we propose a novel three-camera system that utilizes small field of view cameras. Our system, along with our novel algorithm for computing metric depth, does not require full pre-calibration and can output dense depth maps with practically acceptable accuracy for scenes and objects at long distances not well covered by most commercial LiDARs.
+
+![DSBLRfig23](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/DSBLRfig23.png)
+
+-------
+
 ### Surface
 
-##### [7] Articulation-aware Canonical Surface Mapping [PR20](https://arxiv.org/pdf/2004.00614.pdf) [Torch](https://github.com/nileshkulkarni/acsm/) [Project](https://nileshkulkarni.github.io/acsm/) 
+##### [8] Articulation-aware Canonical Surface Mapping [PR20](https://arxiv.org/pdf/2004.00614.pdf) [Torch](https://github.com/nileshkulkarni/acsm/) [Project](https://nileshkulkarni.github.io/acsm/) 
 
 ![ACSMA](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/ACSMT.png)
 
@@ -78,7 +89,7 @@ We tackle the tasks of: 1) predicting a Canonical Surface Mapping (CSM) that ind
 
 ---
 
-##### [8] Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images [PR20](https://arxiv.org/pdf/2003.12642.pdf) 
+##### [9] Deep 3D Capture: Geometry and Reflectance from Sparse Multi-View Images [PR20](https://arxiv.org/pdf/2003.12642.pdf) 
 
 ![D3DCA](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface/D3DCT.png)
 
