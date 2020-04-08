@@ -94,7 +94,7 @@ Estimating 3D poses of multiple humans in real-time is a classic but still chall
 
 ---
 
-#### [10] IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning [PR20](<https://arxiv.org/pdf/2003.02920.pdf>) [Data]() 
+#### [10] IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning [PR20](<https://arxiv.org/pdf/2003.02920.pdf>) [Data](https://github.com/intra3d2019/IntrA) 
 
 ![IntrAT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets/IntrAT.png)
 
