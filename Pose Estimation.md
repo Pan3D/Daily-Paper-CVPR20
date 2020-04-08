@@ -2,7 +2,7 @@
 
 ---
 
-#### [1] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [Depth](#Depth)
+#### [1] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [Depth]
 
 ![TBGT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Pose%20Estimation/TBGT.png)
 
@@ -32,7 +32,7 @@ We describe a method for 3D human pose estimation from transient images (i.e., a
 
 ---
 
-#### [4] HOPENet: A Graph-based Model for Hand-Object Pose Estimation [PR20](https://arxiv.org/pdf/2004.00060.pdf) [Project](http://vision.sice.indiana.edu/projects/hopenet) [Torch](https://github.com/bardiadoosti/HOPE/) [Account](https://mp.weixin.qq.com/s/SedoU-W2wUNIqqmzKArf1A) [Graph](#Graph)
+#### [4] HOPENet: A Graph-based Model for Hand-Object Pose Estimation [PR20](https://arxiv.org/pdf/2004.00060.pdf) [Project](http://vision.sice.indiana.edu/projects/hopenet) [Torch](https://github.com/bardiadoosti/HOPE/) [Account](https://mp.weixin.qq.com/s/SedoU-W2wUNIqqmzKArf1A) [Graph]
 
 ![HOPENetT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Pose%20Estimation/HOPENetT.png)
 
