@@ -81,7 +81,7 @@ In this paper, we propose a novel system named Disp R-CNN for 3D object detectio
 
 ---
 
-##### [10] End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [PR20](<https://arxiv.org/pdf/2004.03080.pdf>) [Code](<https://github.com/mileyan/pseudo-LiDAR_e2e>) 
+##### [9] End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [PR20](<https://arxiv.org/pdf/2004.03080.pdf>) [Code](<https://github.com/mileyan/pseudo-LiDAR_e2e>) 
 
 ![E2EPLT](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Detection/E2EPLT.png)
 
@@ -90,5 +90,3 @@ Reliable and accurate 3D object detection is a necessity for safe autonomous dri
 ![E2EPLfig3](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Detection/E2EPLfig3.png)
 
 ------
-
-### 
