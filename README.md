@@ -5,8 +5,8 @@ Get more information, please subscribe the account "**3D Daily**" in Wechat.
 
 ![3D Daily](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/3D_Daily.jpg)
 
-Includes 3D [Classification/Segmentation](#Classification/Segmentation), [Detection](#Detection), [Generation/Reconstruction](#Generation/Reconstruction), [3DFace](#3D%20Face), 
-[Pose Estimation](#Pose%20Estimation), [Matching](#Matching), [Keypoints](#Keypoints), [Layout](#Layout), [Depth](#Depth), [Surfaces](#Surfaces), [Texture](#Texture), [Graph](#Graph), [Dataset](#Dataset), et al.
+Includes 3D [Classification&Segmentation](#Classification/Segmentation), [Detection](#Detection), [Generation/Reconstruction](#Generation&Reconstruction), [3D Face](#3DFace), 
+[Pose Estimation](#PoseEstimation), [Matching](#Matching), [Keypoints](#Keypoints), [Layout](#Layout), [Depth](#Depth), [Surfaces](#Surfaces), [Texture](#Texture), [Graph](#Graph), [Dataset](#Dataset), et al.
 
 More details about the papers please see the subject documents for papers' abstraction and pipeline.
 
@@ -31,7 +31,7 @@ More details about the papers please see the subject documents for papers' abstr
 
 ------
 
-### Classification/Segmentation
+### Classification&Segmentation
 
 1. PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation [PR20](https://arxiv.org/pdf/2004.01658.pdf) 
 2. PointGLR: Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds [PR20](https://arxiv.org/pdf/2003.12971.pdf) [Torch](https://github.com/raoyongming/PointGLR )
@@ -69,7 +69,7 @@ More details about the papers please see the subject documents for papers' abstr
 
 ------
 
-### Generation/Reconstruction
+### Generation&Reconstruction
 
 1. PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization [PR20](https://arxiv.org/pdf/2004.00452.pdf) [Project](https://shunsukesaito.github.io/PIFuHD/) 
 2. Local Implicit Grid Representations for 3D Scenes [PR20](https://arxiv.org/pdf/2003.08981.pdf) [Video](https://www.youtube.com/watch?v=XCyl1-vxfII&feature=youtu.be) 
@@ -85,7 +85,7 @@ More details about the papers please see the subject documents for papers' abstr
 
 ------
 
-### Pose%20Estimation
+### PoseEstimation
 
 1. Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [Depth](#Depth)
 2. HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map [PR20](https://arxiv.org/pdf/2004.01588.pdf) 
@@ -105,7 +105,7 @@ More details about the papers please see the subject documents for papers' abstr
 
 ------
 
-### 3D%20Face
+### 3DFace
 
 1. THF3D: Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks [PR20](<https://arxiv.org/pdf/2003.05653.pdf>) [Graph](#Graph)
 2. AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild" [Project](https://github.com/lattas/AvatarMe) 
