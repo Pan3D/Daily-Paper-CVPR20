@@ -138,7 +138,7 @@ More details about the papers please see the subject documents for papers' abstr
 ### Depth
 
 1. Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera [PR20](https://arxiv.org/pdf/2004.01294.pdf) 
-2. Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [Pose Estimation]
+2. Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [PoseEstimation]
 3. Depth Sensing Beyond LiDAR Range [PR20](<https://arxiv.org/pdf/2004.03048.pdf>)
 
 ------
@@ -164,9 +164,9 @@ More details about the papers please see the subject documents for papers' abstr
 
 1. OccuSeg: Occupancy-aware 3D Instance Segmentation [PR20](<https://arxiv.org/pdf/2003.06537.pdf>) [C/S](#Classification/Segmentation) 
 2. PointGNN: Graph Neural Network for 3D Object Detection in a Point Cloud [PR20](<https://arxiv.org/pdf/2003.01251.pdf>)  [TF](<https://github.com/WeijingShi/Point-GNN>) [Detection](#Detection/Drive) 
-3. HOPENet: A Graph-based Model for Hand-Object Pose Estimation [PR20](https://arxiv.org/pdf/2004.00060.pdf) [Project](http://vision.sice.indiana.edu/projects/hopenet) [Torch](https://github.com/bardiadoosti/HOPE/) [Account](https://mp.weixin.qq.com/s/SedoU-W2wUNIqqmzKArf1A) [Pose Estimation](#Pose Estimation) 
-4. THF3D: Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks [PR20](<https://arxiv.org/pdf/2003.05653.pdf>) [Reconstruction](#Generation/Reconstruction)
-5. GridGCN: Grid-GCN for Fast and Scalable Point Cloud Learning [PR20](<https://arxiv.org/pdf/1912.02984.pdf>) [Account](<https://leijiezhang001.github.io/paper-reading-Grid-GCN-for-Fast-and-Scalable-Point-Cloud-Learning/>) [C/S](#Classification/Segmentation)
+3. HOPENet: A Graph-based Model for Hand-Object Pose Estimation [PR20](https://arxiv.org/pdf/2004.00060.pdf) [Project](http://vision.sice.indiana.edu/projects/hopenet) [Torch](https://github.com/bardiadoosti/HOPE/) [Account](https://mp.weixin.qq.com/s/SedoU-W2wUNIqqmzKArf1A) [Pose Estimation](#PoseEstimation) 
+4. THF3D: Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks [PR20](<https://arxiv.org/pdf/2003.05653.pdf>) [Reconstruction](#GenRecons)
+5. GridGCN: Grid-GCN for Fast and Scalable Point Cloud Learning [PR20](<https://arxiv.org/pdf/1912.02984.pdf>) [Account](<https://leijiezhang001.github.io/paper-reading-Grid-GCN-for-Fast-and-Scalable-Point-Cloud-Learning/>) [C/S](#CS)
 
 ------
 
