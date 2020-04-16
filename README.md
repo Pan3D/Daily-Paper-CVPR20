@@ -18,11 +18,12 @@ More details about the papers please see the subject documents for papers' abstr
 
 -[Pose Estimation](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Pose%20Estimation.md)
 
--[3D face, Graph, Others](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Face%2C%20Graph%2C%20Others.md)
 
 -[Keypoints, Layout, Depth, Surface](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Keypoints%2C%20Layout%2C%20Depth%2C%20Surface.md)
 
 -[Matching, Tecture, Datasets](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Matching%2C%20Tecture%2C%20Datasets.md)
+
+-[3D Face, Graph, Others](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/Face%2C%20Graph%2C%20Others.md)
 
 1. The first link "PR20" after each title is the paper's address from the arXiv websites.
 2. The link "TF/Torch" means the code based on which platform. "Code" means the code has not released yet.
