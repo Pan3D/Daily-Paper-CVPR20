@@ -85,14 +85,7 @@ More details about the papers please see the subject documents for papers' abstr
 
 ------
 
-### 3D Face
-
-1. THF3D: Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks [PR20](<https://arxiv.org/pdf/2003.05653.pdf>) [Graph](#Graph)
-2. AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild" [Project](https://github.com/lattas/AvatarMe) 
-
-------
-
-### Pose Estimation
+### Pose%20Estimation
 
 1. Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [PR20](https://arxiv.org/pdf/2004.01314.pdf) [Torch](https://github.com/B1ueber2y/TrianFlow) [Depth](#Depth)
 2. HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map [PR20](https://arxiv.org/pdf/2004.01588.pdf) 
@@ -112,6 +105,12 @@ More details about the papers please see the subject documents for papers' abstr
 
 ------
 
+### 3D%20Face
+
+1. THF3D: Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks [PR20](<https://arxiv.org/pdf/2003.05653.pdf>) [Graph](#Graph)
+2. AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild" [Project](https://github.com/lattas/AvatarMe) 
+
+------
 ### Matching
 
 1. RPMNet: Robust Point Matching using Learned Features  [PR20](https://arxiv.org/pdf/2003.13479.pdf)  [Code](https://github.com/yewzijian/RPMNet)  
