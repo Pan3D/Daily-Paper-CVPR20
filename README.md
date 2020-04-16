@@ -5,7 +5,7 @@ Get more information, please subscribe the account "**3D Daily**" in Wechat.
 
 ![3D Daily](https://github.com/Pan3D/Daily-Paper-CVPR20/blob/master/3D_Daily.jpg)
 
-Includes 3D [Classification&Segmentation](#Classification/Segmentation), [Detection](#Detection), [Generation/Reconstruction](#Generation&Reconstruction), [3D Face](#3DFace), 
+Includes 3D [Classification/Segmentation](#Classification), [Detection](#Detection), [Generation/Reconstruction](#Generation&Reconstruction), [3D Face](#3DFace), 
 [Pose Estimation](#PoseEstimation), [Matching](#Matching), [Keypoints](#Keypoints), [Layout](#Layout), [Depth](#Depth), [Surfaces](#Surfaces), [Texture](#Texture), [Graph](#Graph), [Dataset](#Dataset), et al.
 
 More details about the papers please see the subject documents for papers' abstraction and pipeline.
@@ -31,7 +31,7 @@ More details about the papers please see the subject documents for papers' abstr
 
 ------
 
-### Classification&Segmentation
+### Classification Segmentation
 
 1. PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation [PR20](https://arxiv.org/pdf/2004.01658.pdf) 
 2. PointGLR: Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds [PR20](https://arxiv.org/pdf/2003.12971.pdf) [Torch](https://github.com/raoyongming/PointGLR )
